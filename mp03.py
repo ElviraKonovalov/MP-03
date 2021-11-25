@@ -66,4 +66,4 @@ for index, word in enumerate(question_words):
 		wrong_num += 1
 
 accuracy = round((correct_num/(correct_num+wrong_num)),2)
-print("{},{},{},{},{}".format("word2vec-google-news-300",len(set(model_words)),correct_num,guess_num,accuracy))
+print("{},{},{},{},{}".format("word2vec-google-news-300",len(set(model_words)),correct_num,(80-guess_num),accuracy))
