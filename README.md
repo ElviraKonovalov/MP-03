@@ -40,7 +40,7 @@ import random
 - `random_baseline-details.csv`
 
 ## Presentation and Discussion Files
-The following file is for Demo presentation purposes:
+The following files are for Demo presentation purposes:
 1. `MP03-Presentation.pdf`
 2. `MP03-Presentation.ipynb`
 
