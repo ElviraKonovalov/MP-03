@@ -4,8 +4,3 @@ fasttext-wiki-news-subwords-300,999999,74,80,0.925
 glove-wiki-gigaword-300,400000,70,79,0.88608
 glove-twitter-50,1193514,36,76,0.47368
 glove-twitter-200,1193514,44,76,0.57895
-model name,vocabulary size,C,V,accuracy
-model name,vocabulary size,C,V,accuracy
-model name,vocabulary size,C,V,accuracy
-model name,vocabulary size,C,V,accuracy
-model name,vocabulary size,C,V,accuracy
