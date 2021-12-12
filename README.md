@@ -45,5 +45,5 @@ The following files are for Demo presentation purposes:
 2. `MP03-Presentation.ipynb`
 
 ## Author
-Alvira Konovalov<br>
+Alvira Konovalov (R2D2)<br>
 40074264
