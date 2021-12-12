@@ -27,7 +27,7 @@ import pandas as pd
 import random
 ```
 ## Output
-<b>`results/</b> contains the following output files:
+<b>`results/`</b> contains the following output files:
 1. From Task 1:
 - `word2vec-google-news-300-details.csv`
 2. From Task 2:
